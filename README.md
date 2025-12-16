@@ -1,17 +1,30 @@
-🏨 Hotel Reservation System
-A simple console-based Hotel Reservation System developed in Java.
-This project allows users to register, log in, search for available rooms, make reservations, cancel bookings, and view reservation history. It simulates the basic functionality of a hotel booking system in an easy-to-understand way.
+🏨 Hotel Reservation System (Java + JDBC)
 
-🚀 Features
-👤 User Registration & Login
-🛏 View Available Rooms (Room type, pricing, availability)
-📝 Book a Room (with date validation)
-❌ Cancel Reservation
-📜 View Reservation History
-🔒 Input Validation & Error Handling
-🧰 Technologies Used
-Java (JDK 8+)
-OOP Concepts (Encapsulation, Inheritance, Polymorphism)
-File I/O (for data storage) (or JDBC/Database if implemented)
-IDE: IntelliJ IDEA / Eclipse / NetBeans
+A console-based Hotel Reservation System built using Core Java and JDBC, connected to a MySQL database.
+The application allows users to reserve rooms, view reservations, update details, fetch room numbers, and delete reservations through a menu-driven interface.
 
+📌 Features
+
+✅ Reserve a hotel room
+
+📋 View all reservations
+
+🔍 Get room number using reservation ID and guest name
+
+✏️ Update reservation details
+
+❌ Delete a reservation
+
+⏳ Exit with animated feedback
+
+🛠️ Technologies Used
+
+Java (Core Java)
+
+JDBC (Java Database Connectivity)
+
+MySQL
+
+MySQL Connector/J
+
+Scanner (for user input)
