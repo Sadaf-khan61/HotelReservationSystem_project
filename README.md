@@ -14,25 +14,4 @@ Java (JDK 8+)
 OOP Concepts (Encapsulation, Inheritance, Polymorphism)
 File I/O (for data storage) (or JDBC/Database if implemented)
 IDE: IntelliJ IDEA / Eclipse / NetBeans
-📂 Project Structure
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Java
-100.0%
-Footer
 
